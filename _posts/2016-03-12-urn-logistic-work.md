@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Follett
-datePublished: '2016-03-13T11:54:52.407Z'
-dateModified: '2016-03-13T11:53:59.232Z'
+description: 'Follett/PO Box 357/Brewster, NY 10509-0357'
+datePublished: '2016-03-13T11:56:06.648Z'
+dateModified: '2016-03-13T11:56:00.181Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-urn-logistic-work.md
