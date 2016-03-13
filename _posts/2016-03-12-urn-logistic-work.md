@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ken & David Follett'
-datePublished: '2016-03-13T12:11:28.182Z'
-dateModified: '2016-03-13T12:11:24.181Z'
+datePublished: '2016-03-13T12:23:36.173Z'
+dateModified: '2016-03-13T12:23:31.938Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-urn-logistic-work.md
@@ -50,4 +50,8 @@ If you need to be there then we can assist in helping you to get there.
 
 Project management, team building, business development, marketing, conceptual budgets, construction logic, writing. 
 
-Reference on consulting projects is available on request.
+Reference on consulting projects is available on request. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5adf5743-6a92-4179-b6c3-30cfd2b5d63b.jpg)
+
+## Geographic Range
+
+We are located in Putnam and Dutchess County in the State of New York, Hudson Valley Region, approximately 70 miles north of NYC. The majority of our work is in the 5 Boroughs of NYC. Our range extends from Washington, DC to Boston and as far as Western Pennsylvania. Depending upon the nature of the assignment we will work anywhere within the United States and Puerto Rico.
