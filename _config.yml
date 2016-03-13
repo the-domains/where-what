@@ -2,6 +2,7 @@ name: 'Where, What?'
 favicon: null
 layout_spectrum: 0.16113645350560546
 typography_spectrum: 0.43726812209933996
+title: Contact
 cta:
   domain: null
   bucket: null
