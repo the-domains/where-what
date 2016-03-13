@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We are located in Putnam and Dutchess Counties in the State of New York, Hudson Valley Region, approximately 70 miles north of NYC. The majority of our work is in the 5 Boroughs of NYC. Our range extends from Washington, DC to Boston and as far as Western Pennsylvania. Depending upon the nature of the assignment we will work anywhere within the United States and Puerto Rico.'
-datePublished: '2016-03-13T12:36:33.353Z'
-dateModified: '2016-03-13T12:36:29.342Z'
+datePublished: '2016-03-13T12:41:25.765Z'
+dateModified: '2016-03-13T12:41:21.312Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-urn-logistic-work.md
@@ -48,10 +48,10 @@ We take on small projects. Inquiries welcome.
 
 ## Logistics
 
-If you need to be there then we can assist in helping you to get there.
+If you need to be there then we can assist to help you to get there.
 
 ## Consulting
 
-Project management, team building, business development, marketing, conceptual budgets, construction logic, writing. 
+Traditional trades network, project management, team building, business development, marketing, conceptual budgets, business strategy, construction logic, writing.
 
 Reference on consulting projects is available on request.
