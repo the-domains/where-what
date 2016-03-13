@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We are located in Putnam and Dutchess Counties in the State of New York, Hudson Valley Region, approximately 70 miles north of NYC. The majority of our work is in the 5 Boroughs of NYC. Our range extends from Washington, DC to Boston and as far as Western Pennsylvania. Depending upon the nature of the assignment we will work anywhere within the United States and Puerto Rico.'
-datePublished: '2016-03-13T12:30:47.651Z'
-dateModified: '2016-03-13T12:30:05.148Z'
+datePublished: '2016-03-13T12:33:43.824Z'
+dateModified: '2016-03-13T12:33:40.317Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-urn-logistic-work.md
@@ -22,6 +22,7 @@ url: urn-logistic-work-2015/index.html
 _type: Article
 
 ---
+ken@follett.solutions    david@follett.solutions
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5adf5743-6a92-4179-b6c3-30cfd2b5d63b.jpg)
 
 ## Geographic Range
@@ -54,5 +55,3 @@ If you need to be there then we can assist in helping you to get there.
 Project management, team building, business development, marketing, conceptual budgets, construction logic, writing. 
 
 Reference on consulting projects is available on request.
-
-> _ken@follett.solutions     david@follett.solutions_
