@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We are located in Putnam and Dutchess Counties in the State of New York, Hudson Valley Region, approximately 70 miles north of NYC. The majority of our work is in the 5 Boroughs of NYC. Our range extends from Washington, DC to Boston and as far as Western Pennsylvania. Depending upon the nature of the assignment we will work anywhere within the United States and Puerto Rico.'
-datePublished: '2016-03-13T12:33:43.824Z'
-dateModified: '2016-03-13T12:33:40.317Z'
+datePublished: '2016-03-13T12:36:33.353Z'
+dateModified: '2016-03-13T12:36:29.342Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-urn-logistic-work.md
@@ -32,7 +32,7 @@ We are located in Putnam and Dutchess Counties in the State of New York, Hudson 
 Follett/PO Box 357/Brewster, NY 10509-0357
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e288d5b4-f2c1-420b-88e3-e68a364f6b22.jpg)
 
-## Ken & David Follett
+Ken & David Follett
 
 ## Probes
 
